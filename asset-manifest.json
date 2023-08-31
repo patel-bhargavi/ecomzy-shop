@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ecomzy-shop/static/css/main.7c7e1108.css",
-    "main.js": "/ecomzy-shop/static/js/main.1fa1e992.js",
+    "main.js": "/ecomzy-shop/static/js/main.dbd4bff2.js",
     "index.html": "/ecomzy-shop/index.html",
     "main.7c7e1108.css.map": "/ecomzy-shop/static/css/main.7c7e1108.css.map",
-    "main.1fa1e992.js.map": "/ecomzy-shop/static/js/main.1fa1e992.js.map"
+    "main.dbd4bff2.js.map": "/ecomzy-shop/static/js/main.dbd4bff2.js.map"
   },
   "entrypoints": [
     "static/css/main.7c7e1108.css",
-    "static/js/main.1fa1e992.js"
+    "static/js/main.dbd4bff2.js"
   ]
 }
